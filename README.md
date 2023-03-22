@@ -17,5 +17,5 @@ This Terraform code creates the infrastructure for a simple web application on A
 1. Clone this repository to your local machine.
 2. Terraform init
 3. Terraform plan
-4. Terraform apply --auto-approve
-5. Terraform destroy --auto-approve
+4. Terraform apply
+5. Terraform destroy
